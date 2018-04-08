@@ -5,7 +5,7 @@
 // http://www.frankydee.net
 // e-mail: francisxdaniel@gmail.com
 //==================================================================
-// CREATEUR DE GRID DE PAGE
+// AJOUT TEXTE SUR BOITE OBJET
 
 if (app.documents.length > 0 && app.selection.length > 0) { 
   addTextToImage(app.selection[0]); 
