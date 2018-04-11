@@ -26,3 +26,6 @@ Nous essyerons de mettre a jour régulièrement nos sources de script a jour au 
 Merci de nous avertir de certaines modification au code si vous le trouver utile pour vos besoins.
 
 Au plaisir
+
+
+* Certain scripts sont de provenance internet mais adapter à nos besoins spécifiques.
