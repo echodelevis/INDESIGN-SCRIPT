@@ -28,4 +28,4 @@ Merci de nous avertir de certaines modification au code si vous le trouver utile
 Au plaisir
 
 
-* Certain scripts sont de provenance internet mais adapter à nos besoins spécifiques.
+* Certain scripts sont de provenance internet mais adapter à nos besoins spécifiques et évidement....en FRANCAIS  ;)
